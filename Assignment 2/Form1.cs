@@ -30,7 +30,7 @@ namespace Assignment_2
             }
             catch
             {
-                MessageBox.show("type in two numbers. ");
+                MessageBox.Show("type in two numbers. "); 
 
             }
         }
